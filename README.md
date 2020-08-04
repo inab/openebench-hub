@@ -6,20 +6,26 @@
 | **Backend**                                                                        |
 | [openEBench_vre][openEBench_vre-link]                                              | OpenEBench Virtual Research Environment                                   |
 | [benchmarking-data-model][benchmarking-data-model-link]                            | Data model used internally on OEB                                         |
-| [opeb-enrichers][opeb-enrichers-link]                                              | OEB entries enrichers with information from publications and github       |
+| (GitLab) [openebench-data-model][openebench-data-model-link]                       | Java classes for the OpenEBench data model                                |
+| (GitLab) [openebench-validator-tool][openebench-validator-tool-link]               | The tool to verify OpenEBench database consistency                        |
+| (GitLab) [openebench-distiller-tool][openebench-distiller-tool-link]               | Tool for migration OpenEBench data from provisional to production database |
 | [openEBenchAPI][openEBenchAPI-link]                                                | RESTful API to access ELIXIR Benchmarking data store                      |
-| [elixibilitas][elixibilitas-link]                                                  | Quality Metrics tool for Elixir BioTools Registry                         |
-| [benchmarking][benchmarking-link]                                                  | API to submit benchmarking data                                           |
-| [biotools-bioconda-ids][biotools-bioconda-ids-link]                                | ID mamping among the ELIXIR tools platform resources                      |
+| (GitLab) [openebench-rest-api][openebench-rest-api-link]                           | REST API for protected OpenEBench data access                             |
+| (GitLab) [openebench-security-docs][openebench-security-docs-link]                 | Documentation about OpenEBench security (OpenID, UMA2, KC, etc.)          |
 | **Submission**                                                                     |                                                                           |
 | [opeb-submission][opeb-submission-link]                                            | OpenEBench submission infrastructure                                      |
-| [**To Archive**] [opeb-submission-api][opeb-submission-api-link]                   | OpenEBench submission API                                                 |
+| (GitLab) [openebench-submission-api][openebench-submission-api-link]               | OpenEBench API for data submission                                        |
+| [biotools-bioconda-ids][biotools-bioconda-ids-link]                                | ID mapping among the ELIXIR tools platform resources                      |
+| [opeb-enrichers][opeb-enrichers-link]                                              | OEB entries enrichers with information from publications and repositories |
+| [elixibilitas][elixibilitas-link]                                                  | Quality Metrics tool for Elixir BioTools Registry                         |
+| [benchmarking][benchmarking-link]                                                  | API to submit benchmarking data                                           |
+| _(To Archive)_ [opeb-submission-api][opeb-submission-api-link]                     | OpenEBench submission API                                                 |
 | **Frontend**                                                                       |
 | [openEbench-frontend][openEbench-frontend-link]                                    | OpenEBench Frontend Web Application                                       |
 | [OpenEBench_scientific_visualizer][OpenEBench_scientific_visualizer-link]          | Visualization of scientific benchmarking results                          |
 | [open-styles][open-styles-link]                                                    | Static content and styles for openebench                                  |
-| [**Archived**] [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link] | ~~Frontend of OEB~~                                                       |
-| [**To Archive**] [~~openEBench-widgets~~][openEBench-widgets-link]                 | ~~Metrics widget~~                                                        |
+| _(Archived)_ [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link]   | ~~Frontend of OEB~~                                                       |
+| _(To Archive)_ [~~openEBench-widgets~~][openEBench-widgets-link]                   | ~~Metrics widget~~                                                        |
 | **TCGA Repositories**                                                              |
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                                            | OpenEBench TCGA visualizer Docker declarations                            |
@@ -50,3 +56,10 @@
 [TCGA_benchmarking_dockers-link]:                     https://github.com/inab/TCGA_benchmarking_dockers
 [benchmarking_workflows_results_visualizer-link]:                  https://github.com/inab/benchmarking_workflows_results_visualizer
 [mg-process_TCGA_CD-link]:                  https://github.com/inab/mg-process_TCGA_CD
+
+[openebench-validator-tool-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-validator-tool
+[openebench-data-model-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-data-model
+[openebench-submission-api-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-submission-api
+[openebench-distiller-tool-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-distiller-tool
+[openebench-rest-api-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-rest-api
+[openebench-security-docs-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-security-docs
