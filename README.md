@@ -1,9 +1,10 @@
-# openebench-hub
+# OpenEBench Repositories Hub
 
 | **Repository**                                                                     | **Definition**                                                            |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [openebench-hub][openebench-hub-link]                                              | Hub to centralize all OEB repositories                                    |
 | **Backend**                                                                        |
+| [openEBench_vre][openEBench_vre-link]                                              | OpenEBench Virtual Research Environment                                   |
 | [benchmarking-data-model][benchmarking-data-model-link]                            | Data model used internally on OEB                                         |
 | [opeb-enrichers][opeb-enrichers-link]                                              | OEB entries enrichers with information from publications and github       |
 | [openEBenchAPI][openEBenchAPI-link]                                                | RESTful API to access ELIXIR Benchmarking data store                      |
@@ -23,7 +24,7 @@
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                                            | OpenEBench TCGA visualizer Docker declarations                            |
 | [benchmarking_workflows_results_visualizer][benchmarking_workflows_results_visualizer-link]                                      | Visualize benchmarking results from the TCGA community in a 'D3.js' chart |
-| [mg-process_TCGA_CD][mg-process_TCGA_CD-link]                                      | TCGA CD MuG/VRE wrapper                                                   |
+| [mg-process_TCGA_CD][mg-process_TCGA_CD-link]                                      | TCGA CD VRE wrapper                                                   |
 
 ---
 ---
@@ -31,6 +32,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 [openebench-hub-link]:                      https://github.com/inab/openebench-hub
+[openEBench_vre-link]:                      https://github.com/inab/openEBench_vre
 [benchmarking-data-model-link]:             https://github.com/inab/benchmarking-data-model
 [opeb-enrichers-link]:                      https://github.com/inab/opeb-enrichers
 [openEBenchAPI-link]:                       https://github.com/inab/openEBenchAPI
