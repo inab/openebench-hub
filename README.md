@@ -15,11 +15,23 @@
 | **Submission**                                                                     |                                                                           |
 | [opeb-submission][opeb-submission-link]                                            | OpenEBench submission infrastructure                                      |
 | (GitLab) [openebench-submission-api][openebench-submission-api-link]               | OpenEBench API for data submission                                        |
+| [benchmarking][benchmarking-link]                                                  | API to submit benchmarking data                                           |
+| _(To Archive)_ [opeb-submission-api][opeb-submission-api-link]                     | OpenEBench submission API                                                 |
+| **Tools monitoring**                                                               |
 | [biotools-bioconda-ids][biotools-bioconda-ids-link]                                | ID mapping among the ELIXIR tools platform resources                      |
 | [opeb-enrichers][opeb-enrichers-link]                                              | OEB entries enrichers with information from publications and repositories |
 | [elixibilitas][elixibilitas-link]                                                  | Quality Metrics tool for Elixir BioTools Registry                         |
-| [benchmarking][benchmarking-link]                                                  | API to submit benchmarking data                                           |
-| _(To Archive)_ [opeb-submission-api][opeb-submission-api-link]                     | OpenEBench submission API                                                 |
+| (GitLab) [elixibilitas-dao][elixibilitas-dao-link]                                 | OEB tools monitoring MongoDB API                                          |
+| (GitLab) [elixibilitas-metrics-checker][elixibilitas-metrics-checker-link]         | OEB tools metrics generator                                               |
+| (GitLab) [openebench-bioconda-importer][openebench-bioconda-importer-link]         | Import bioconda data from a git repository                                |
+| (GitLab) [openebench-repository-client][openebench-repository-client-link]         | OpenEBench REST API client classes                                        |
+| (GitLab) [openebench-tools-model][openebench-tools-model-link]                     | OpenEBench Java Tools model                                               |
+| (GitLab) [openebench-biotools-importer][openebench-biotools-importer-link]         | Import biotools data from a git repository                                |
+| (GitLab) [openebench-metrics-model][openebench-metrics-model-link]                 | OpenEBench Java Metrics Model                                             |
+| (GitLab) [openebench-git-populous][openebench-git-populous-link]                   | Exports OpenEBench metrics data into biotools content git server          |
+| (GitLab) [biotools-git-populous][biotools-git-populous-link]                       | Populates biotools data into a git repository                             |
+| (GitLab) [bioconda-git-populous][bioconda-git-populous-link]                       |                                                                           |
+| (GitLab) [biotools-schema-model][biotools-schema-model-link]                       | Java JAXB model classes for biotoolsSchema                                |
 | **Frontend**                                                                       |
 | [openEbench-frontend][openEbench-frontend-link]                                    | OpenEBench Frontend Web Application                                       |
 | [OpenEBench_scientific_visualizer][OpenEBench_scientific_visualizer-link]          | Visualization of scientific benchmarking results                          |
@@ -63,3 +75,15 @@
 [openebench-distiller-tool-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-distiller-tool
 [openebench-rest-api-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-rest-api
 [openebench-security-docs-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-security-docs
+
+[elixibilitas-dao-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/elixibilitas/elixibilitas-dao
+[elixibilitas-metrics-checker-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/elixibilitas/elixibilitas-metrics-checker
+[openebench-bioconda-importer-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-bioconda-importer
+[openebench-repository-client-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-repository-client
+[openebench-tools-model-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-tools-model
+[openebench-biotools-importer-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-biotools-importer
+[openebench-metrics-model-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-metrics-model
+[openebench-git-populous-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/openebench-git-populous
+[biotools-git-populous-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/biotools-git-populous
+[bioconda-git-populous-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/bioconda-git-populous
+[biotools-schema-model-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/biotools-schema-model
