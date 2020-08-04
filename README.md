@@ -15,11 +15,11 @@
 | [opeb-submission][opeb-submission-link]                                            | OpenEBench submission infrastructure                                      |
 | [**To Archive**] [opeb-submission-api][opeb-submission-api-link]                   | OpenEBench submission API                                                 |
 | **Frontend**                                                                       |
-| [**Archived**] [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link] | ~~Frontend of OEB~~                                                       |
-| [open-styles][open-styles-link]                                                    | Static content and styles for openebench                                  |
-| [**To Archive**] [~~openEBench-widgets~~][openEBench-widgets-link]                 | ~~Metrics widget~~                                                        |
-| [openEbench-frontend][openEbench-frontend-link]                                    | Frontend of OEB                                                           |
+| [openEbench-frontend][openEbench-frontend-link]                                    | OpenEBench Frontend Web Application                                       |
 | [OpenEBench_scientific_visualizer][OpenEBench_scientific_visualizer-link]          | Visualization of scientific benchmarking results                          |
+| [open-styles][open-styles-link]                                                    | Static content and styles for openebench                                  |
+| [**Archived**] [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link] | ~~Frontend of OEB~~                                                       |
+| [**To Archive**] [~~openEBench-widgets~~][openEBench-widgets-link]                 | ~~Metrics widget~~                                                        |
 | **TCGA Repositories**                                                              |
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                                            | OpenEBench TCGA visualizer Docker declarations                            |
@@ -41,10 +41,10 @@
 [biotools-bioconda-ids-link]:               https://github.com/inab/biotools-bioconda-ids
 [opeb-submission-link]:                     https://github.com/inab/opeb-submission
 [opeb-submission-api-link]:                 https://github.com/inab/opeb-submission-api
+[openEbench-frontend-link]:                 https://github.com/inab/openEbench-frontend
 [openEBenchFrontend-archived-link]:         https://github.com/inab/openEBenchFrontend-archived
 [open-styles-link]:                         https://github.com/inab/open-styles
 [openEBench-widgets-link]:                  https://github.com/inab/openEBench-widgets
-[openEbench-frontend-link]:                 https://github.com/inab/openEbench-frontend
 [OpenEBench_scientific_visualizer-link]:    https://github.com/inab/OpenEBench_scientific_visualizer
 [TCGA_benchmarking_workflow-link]:          https://github.com/inab/TCGA_benchmarking_workflow
 [TCGA_benchmarking_dockers-link]:                     https://github.com/inab/TCGA_benchmarking_dockers
