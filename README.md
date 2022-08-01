@@ -40,7 +40,8 @@
 | _(To Archive)_ [~~openEBench-widgets~~][openEBench-widgets-link]                   | ~~Metrics widget~~                                                        |
 | **TCGA Repositories**                                                              |
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
-| [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                                            | OpenEBench TCGA visualizer Docker declarations                            |
+| [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                        | OpenEBench TCGA visualizer Docker declarations                            |
+| [openebench_gmi][GMI_benckmarking_workflow-link]                                   | OpenEBench GMI pipeline to assess results and compare metrics with GMI results |
 | [benchmarking_workflows_results_visualizer][benchmarking_workflows_results_visualizer-link]                                      | Visualize benchmarking results from the TCGA community in a 'D3.js' chart |
 | [mg-process_TCGA_CD][mg-process_TCGA_CD-link]                                      | TCGA CD VRE wrapper                                                   |
 
@@ -65,7 +66,8 @@
 [openEBench-widgets-link]:                  https://github.com/inab/openEBench-widgets
 [OpenEBench_scientific_visualizer-link]:    https://github.com/inab/OpenEBench_scientific_visualizer
 [TCGA_benchmarking_workflow-link]:          https://github.com/inab/TCGA_benchmarking_workflow
-[TCGA_benchmarking_dockers-link]:                     https://github.com/inab/TCGA_benchmarking_dockers
+[TCGA_benchmarking_dockers-link]:           https://github.com/inab/TCGA_benchmarking_dockers
+[GMI_benckmarking_workflow-link]:           https://github.com/inab/openebench_gmi
 [benchmarking_workflows_results_visualizer-link]:                  https://github.com/inab/benchmarking_workflows_results_visualizer
 [mg-process_TCGA_CD-link]:                  https://github.com/inab/mg-process_TCGA_CD
 
