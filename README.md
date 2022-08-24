@@ -42,7 +42,7 @@
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                        | OpenEBench TCGA visualizer Docker declarations                            |
 | [benchmarking_workflows_results_visualizer][benchmarking_workflows_results_visualizer-link]                                      | Visualize benchmarking results from the TCGA community in a 'D3.js' chart |
-| [mg-process_TCGA_CD][mg-process_TCGA_CD-link]                                      | TCGA CD VRE wrapper                                                   |
+| _(Archived)_ [~~mg-process_TCGA_CD~~][mg-process_TCGA_CD-link]                                      | ~~TCGA CD VRE wrapper~~                                                   |
 | [openebench_gmi][GMI_benckmarking_workflow-link]                                   | OpenEBench GMI pipeline to assess results and compare metrics with GMI results |
 | [APAeval (external)][APAeval-link]                                                 | OpenEBench APAeval community pipeline to assess results                   |
 
