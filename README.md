@@ -38,7 +38,7 @@
 | [open-styles][open-styles-link]                                                    | Static content and styles for openebench                                  |
 | _(Archived)_ [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link]   | ~~Frontend of OEB~~                                                       |
 | _(To Archive)_ [~~openEBench-widgets~~][openEBench-widgets-link]                   | ~~Metrics widget~~                                                        |
-| **OpenEBench cientific Communities Repositories**                                  |
+| **OpenEBench scientific Communities Repositories**                                  |
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                        | OpenEBench TCGA visualizer Docker declarations                            |
 | [benchmarking_workflows_results_visualizer][benchmarking_workflows_results_visualizer-link]                                      | Visualize benchmarking results from the TCGA community in a 'D3.js' chart |
