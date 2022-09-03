@@ -12,6 +12,9 @@
 | [openEBenchAPI][openEBenchAPI-link]                                                | RESTful API to access ELIXIR Benchmarking data store                      |
 | (GitLab) [openebench-rest-api][openebench-rest-api-link]                           | REST API for protected OpenEBench data access                             |
 | (GitLab) [openebench-security-docs][openebench-security-docs-link]                 | Documentation about OpenEBench security (OpenID, UMA2, KC, etc.)          |
+| (GitLab) [oeb-sci-admin-tools][oeb-sci-admin-tools-link]                           | Several internal OpenEBench command line tools which use the REST APIs    |
+| [OEB_level2_data_migration][OEB_level2_data_migration-link]                        | Tool which takes the provisional JSON files from assessment and generates JSON contents ready to be stored in the database through the usage of the REST APIs or the admin tools |
+| [bench_event_api][bench_event_api-link]                                            | REST API to compute different clustering metrics over the participants of an scientific event |
 | **Submission**                                                                     |                                                                           |
 | [opeb-submission][opeb-submission-link]                                            | OpenEBench submission infrastructure                                      |
 | (GitLab) [openebench-submission-api][openebench-submission-api-link]               | OpenEBench API for data submission                                        |
@@ -38,6 +41,7 @@
 | [open-styles][open-styles-link]                                                    | Static content and styles for openebench                                  |
 | _(Archived)_ [~~openEBenchFrontend-archived~~][openEBenchFrontend-archived-link]   | ~~Frontend of OEB~~                                                       |
 | _(To Archive)_ [~~openEBench-widgets~~][openEBench-widgets-link]                   | ~~Metrics widget~~                                                        |
+| [bench_event_table][bench_event_table-link]                                        | Component to represent the overall results of a scientific event, in table format |
 | **OpenEBench scientific Communities Repositories**                                  |
 | [TCGA_benchmarking_workflow][TCGA_benchmarking_workflow-link]                      | Example pipeline to assess results and compare metrics with TCGA results  |
 | [TCGA_benchmarking_dockers][TCGA_benchmarking_dockers-link]                        | OpenEBench TCGA visualizer Docker declarations                            |
@@ -79,6 +83,8 @@
 [openebench-distiller-tool-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-distiller-tool
 [openebench-rest-api-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-rest-api
 [openebench-security-docs-link]:	https://gitlab.bsc.es/inb/elixir/openebench/openebench-security-docs
+[oeb-sci-admin-tools-link]: https://gitlab.bsc.es/inb/elixir/openebench/oeb-sci-admin-tools
+[OEB_level2_data_migration-link]: https://github.com/inab/OEB_level2_data_migration
 
 [elixibilitas-dao-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/elixibilitas/elixibilitas-dao
 [elixibilitas-metrics-checker-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/elixibilitas/elixibilitas-metrics-checker
@@ -91,3 +97,6 @@
 [biotools-git-populous-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/biotools-git-populous
 [bioconda-git-populous-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/bioconda-git-populous
 [biotools-schema-model-link]:	https://gitlab.bsc.es/inb/elixir/tools-platform/biotools-schema-model
+
+[bench_event_api-link]: https://github.com/inab/bench_event_api
+[bench_event_table-link]: https://github.com/inab/bench_event_table
